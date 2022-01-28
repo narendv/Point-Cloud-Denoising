@@ -1,0 +1,6 @@
+# ninja log v5
+1	12698	1622550963040643494	/home/catlab/dimple/completion/pointnet2_ops_lib/build/temp.linux-x86_64-3.6/pointnet2_ops/_ext-src/src/ball_query.o	c5945b760c54ab65
+1	12837	1622550963180643491	/home/catlab/dimple/completion/pointnet2_ops_lib/build/temp.linux-x86_64-3.6/pointnet2_ops/_ext-src/src/interpolate.o	a26a381578ec9363
+1	12998	1622550963344643487	/home/catlab/dimple/completion/pointnet2_ops_lib/build/temp.linux-x86_64-3.6/pointnet2_ops/_ext-src/src/sampling.o	15d947df0d85236b
+0	13011	1622550963356643487	/home/catlab/dimple/completion/pointnet2_ops_lib/build/temp.linux-x86_64-3.6/pointnet2_ops/_ext-src/src/group_points.o	ffad6b373c81b0dd
+1	14799	1622550965144643450	/home/catlab/dimple/completion/pointnet2_ops_lib/build/temp.linux-x86_64-3.6/pointnet2_ops/_ext-src/src/bindings.o	b46f100b18d7f800
